@@ -1,0 +1,12 @@
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp3.1\OperacionesBasicas.exe
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp3.1\OperacionesBasicas.deps.json
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp3.1\OperacionesBasicas.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp3.1\OperacionesBasicas.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp3.1\OperacionesBasicas.dll
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp3.1\OperacionesBasicas.pdb
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp3.1\OperacionesBasicas.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp3.1\OperacionesBasicas.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp3.1\OperacionesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp3.1\OperacionesBasicas.dll
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp3.1\OperacionesBasicas.pdb
+C:\Users\Ivanesa\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp3.1\OperacionesBasicas.genruntimeconfig.cache
